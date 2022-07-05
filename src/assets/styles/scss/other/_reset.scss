@@ -1,0 +1,50 @@
+html,
+body {
+	font-family: 'Barlow', sans-serif;
+}
+
+html {
+	font-size: 62.5%;
+}
+
+body {
+	margin: 0;
+	font-size: 1.6em;
+	background-color: #F6F6F6;
+}
+
+a,
+p,
+span,
+label,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin: 0;
+}
+
+figure {
+	margin: 0;
+}
+button,
+image,
+a,
+li,
+input,
+label {
+	-webkit-tap-highlight-color: transparent;
+}
+*,
+*::after,
+*::before {
+	box-sizing: border-box;
+}
+
+ul,
+ol {
+	padding: 0 0 0 2rem;
+	margin: 0;
+}
